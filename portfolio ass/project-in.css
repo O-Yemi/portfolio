@@ -1,0 +1,118 @@
+ 
+.FAQ-CONTAINER{
+   color:black ; 
+   background-color:black ;
+   padding-top: 50px;
+   padding-left: 50px;
+   margin: 0;
+}
+.fa-q{
+  background-image: linear-gradient(108deg, #b16cea 8%, #ff5e69 40%, #ff8a56 77%, #ffa84b 91%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 30px;
+    font-weight: bolder;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    text-align: center;
+    width: 100%;
+}
+.f-aq{
+  letter-spacing: 1px;
+  color:#fff;
+  font-weight: bolder;
+  font-size:50px;
+  margin-top: 5px;
+  margin-left: 25%;
+}
+.j-c{
+  display: flex;
+  justify-content: space-between;
+}
+.what-type{
+  color: #ffffff;
+  font-size: 25px;
+  letter-spacing: 1px;
+  line-height: 30px;
+  font-weight:600;
+  margin-top:20%;
+  padding-bottom: 40px;
+  border-bottom: 1px solid  #8a95ad; 
+  width: 100%;
+  display: block;
+}
+
+.r-m-s{
+     color:#fff;
+     font-weight: bolder;
+     font-size:50px;
+     margin-top: 25%;
+     line-height:2;
+   }
+.on-a-call {
+    background-image: linear-gradient(108deg, #b16cea 8%, #ff5e69 40%, #ff8a56 77%, #ffa84b 91%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 50px;
+    line-height: 2;
+    font-weight: bolder;
+    margin-bottom: 30px;
+  }
+.j-c{
+    display: flex;
+    justify-content: space-between;
+  }
+.p-creator{
+    font-size: 30px;
+    color: #fff;
+    font-weight:900;
+    line-height: 2;
+    margin-bottom: 5px;
+  }
+.san-fr{
+    color: rgb(102, 102, 102);
+    margin-bottom: 5px;
+  }
+.bootst-rap {
+    display: flex;
+  }  
+i.ema-il{
+    font-size: 20px;
+    margin-left:0;
+    width:4%;
+    color: rgb(102, 102, 102);
+   }
+.ema-il-text{
+   color: rgb(102, 102, 102);
+   font-size:20px;
+   line-height:36px;
+   font-size:20px;
+}
+.spa-ce{
+    margin-left: 40px;
+}
+.n-exx{
+    display: flex;
+    justify-content: space-between;
+    color: #fff;
+  }
+ul{
+    text-decoration: none;
+}
+ul.bbb {
+    list-style-type: none;
+    list-style-position: inside;
+    line-height: 40px;
+    font-weight: bold;
+    font-size: 18px;
+    padding-left: 40px;
+    padding-right:25px;
+  }
+.all-right{
+    color: #8a95ad;
+    margin-top:50px;
+    font-size: 19px;
+    font-weight: 300;
+  }
