@@ -14,25 +14,13 @@ header{
 .logo{
     margin-right: 35em;}
 
-/*.topnav {
-  overflow: hidden;
-  background-color: #333;
-}*/
 div{
-z  display: flex;
+  display: flex;
   justify-content: space-between;
 }
 a{
-  /* float: left; */
-  /*color: #f2f2f2;*/
-  /* margin-right: 4em; */
-  /* display: flex; */
   margin-right: 30px;
   list-style-type: none;
-  /*text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-  font-size: 17px;*/
 }
 
 .topnav a:hover {

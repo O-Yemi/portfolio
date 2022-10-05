@@ -1,0 +1,289 @@
+html{
+    scroll-behavior:smooth
+}
+*{
+      box-sizing: border-box;
+      margin: 0;
+}
+body{   
+      background-color: #171f4a;
+      font-family: Generalsans, sans-serif;
+      color: #dfe8f8;
+      font-size: 1vw;
+      line-height: 1.5;
+      font-weight: 400;
+      letter-spacing: -0.02em;
+      display: block;
+}
+.first-container{
+      margin-bottom:5em;
+}
+.navbar-container{
+      position: relative;
+      z-index: 100;
+      display: flex;
+      height: 100%;
+      max-width: 1510px;
+      margin-top: 1em;
+      margin-right: 2.75em;
+      margin-left: 2.75em;
+      padding: 1em 2.75em 1em 2.6em;
+      justify-content: space-between;
+      flex: 1;
+      border: 1px solid transparent;
+      border-radius: 8px;
+      background-color: transparent;
+}
+.highlight{
+      margin-top: 20px;
+      width: 2;
+}
+.title{
+      margin-bottom: 0.2em;
+      font-size:4.6em;
+      font-weight:bolder;
+      line-height:1;
+      letter-spacing: 1px;
+  }   
+.text-highlight{
+      position: relative;
+      line-height: 1;
+      display: inline-block;
+      height: 1em;
+      margin-left: 4px;
+      padding-right: 2px;
+      padding-left: 2px;
+      border-bottom: 22px solid #3484cc;
+  }       
+.max-42{
+      max-width: 42em;
+}
+.paragraph{
+      font-size:1.3em;
+      font-weight:lighter;
+      margin-top: 5px;
+}
+.button-wrapper {
+      padding-right:4px;
+      margin-top: 2.5em;
+}
+.button {
+      display: inline-block;
+      padding: 0.8em 3.5em 0.9em;
+      font-size:20px;
+      border-radius: 100px;
+      background-color: #3484cc;
+      color: #dfe8f8;
+      line-height: 1;
+      font-weight: 400;
+      text-align: center;
+      letter-spacing: -0.03em;
+      text-decoration: none;
+  }
+  a {
+      color: #dfe8f8;
+      text-decoration: underline;
+      background-color: transparent;
+  }
+  .button-text {
+      position: relative;
+      font-size: 20px;
+  }
+  .second-container{
+    background-color: #202957;
+    padding-top:1rem;
+    color:#fff;
+  }
+  .title-2{
+      margin-bottom: 0.2em;
+      font-size:3.2em;
+      font-weight:500;
+      line-height:1;
+      letter-spacing: 1px;
+      margin-top: 1em;
+  }     
+  .text-high{
+      position: relative;
+      line-height: 1;
+      display: inline-block;
+      height: 1em;
+      padding-right: 2px;
+      padding-left:4px;
+      border-bottom: 16px solid #3484cc;
+  }       
+.parag{
+      font-size:1.3em;
+      font-weight:lighter;
+      margin-bottom: 2em;  
+      margin-top: 5px;
+}
+.flex{
+      display: flex;
+      align-items: center;
+}
+.icon{
+      padding:15px;
+      background-color: #3484cc;
+      border-radius:8px;
+}
+.title-3{
+      margin-bottom: 0.2em;
+      font-size:1.4em;
+      font-weight:200;
+      line-height:1;
+      letter-spacing: 1px;
+      padding-left:5px;
+      
+  }
+.param{
+      font-size:1.1em;
+      font-weight:bold;
+      margin-top:18px;
+      width: 100%;
+      padding-left:5px;
+      color: #dfe8f8;
+}  
+.third-container{
+      margin-bottom: 5em;
+}   
+.title-2{
+      margin-bottom: 0.2em;
+      font-size:3.2em;
+      font-weight:500;
+      line-height:1;
+      letter-spacing: 1px;
+      margin-top: 1em;
+  } 
+.ceo{
+      font-size:10px;
+      font-weight:bold;
+      padding-top: 0;
+}    
+.button-wrapper {
+      padding-right:4px;
+      margin-top: 2.5em;
+}
+.button {
+      display: inline-block;
+      padding: 0.8em 3.5em 0.9em;
+      font-size:20px;
+      border-radius: 100px;
+      background-color: #3484cc;
+      color: #dfe8f8;
+      line-height: 1;
+      font-weight: 400;
+      text-align: center;
+      letter-spacing: -0.03em;
+      text-decoration: none;
+  }
+  a {
+      color: #dfe8f8;
+      text-decoration: underline;
+      background-color: transparent;
+  }
+  .button-text {
+      position: relative;
+      font-size: 20px;
+  }
+  .button-2 {
+      display: inline-block;
+      padding: 0.8em 3.5em 0.9em;
+      font-size:20px;
+      border-radius: 100px;
+      border-color: hsla(0, 0%, 100%, 0.5);
+      background-color: hsla(0, 0%, 100%, 0.15);
+      color: #dfe8f8;
+      line-height: 1;
+      font-weight: 400;
+      text-align: center;
+      letter-spacing: -0.03em;
+      text-decoration: none;
+  }
+  
+  .labe-l{
+      opacity: 0.7;
+      color: hsla(0, 0%, 100%, 0.9);
+      font-size: 0.8em;;
+      line-height: 1;
+      font-weight:900;
+      text-transform: uppercase;
+  }
+  .relati-ve{
+    border: 1px solid #cccccc;
+    border-color: #fff;
+    border-radius: 8px;
+    width:68%;
+    margin-top:25px;
+  }
+  .input-group {
+      margin-bottom: 1.5em;
+  }
+  .input {
+      padding-top:1.05em;
+      padding-bottom: 1em;
+      background-color: transparent;
+      padding-left:1em;
+      color: #dfe8f8;
+      margin-bottom: 0px;
+      margin-top: 0px;
+      border:none;
+      line-height: 1;
+      font-size: 1.25em;
+      font-weight: 400;
+  }
+  .footer-subscribe-button:hover {
+    opacity: 0.4;
+  }
+  .footer-subscribe-button {
+      /* margin-top:2px; */
+      /* right:3px; */
+      /* bottom: 5px; */
+      padding: 0.6em 1.2em 0.7em;
+      margin-left: 1.1em;
+      border-radius: 6px;
+      background-color: #3484cc;
+      font-size: 20px;
+      transition: opacity 2000ms ease;
+      line-height: 1;
+      font-weight: 400;
+  }
+  .w-button {
+      color: white;
+      border:none;
+      text-decoration: none;
+  }
+.la-bel{
+      opacity: 0.7;
+      color: hsla(0, 0%, 100%, 0.9);
+      font-size: 1.1em;;
+      line-height: 1;
+      font-weight: 500;
+  }
+.class{
+        color: #dfe8f8;
+        font-size: 0.85em;
+        line-height: 1;
+        font-weight:500;
+}
+.second-container{
+    background-color: #202957;
+    padding-top:1rem;
+    color:#fff;
+}
+.show{
+    display:flex;
+    justify-content:space-between;
+    align-items: center;
+}
+.space{
+    padding-right:3em;
+    justify-content:space-between;
+    display:flex;
+}
+.shown{
+    display:flex;
+    margin-top: 4em;
+}
+.spa-ce{
+    margin-left:4em;
+}
